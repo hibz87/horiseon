@@ -14,7 +14,6 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -22,6 +21,7 @@ body {
 
 .header h1 .seo {
     color: #d9dcd6;
+   
 }
 
 .header div {
