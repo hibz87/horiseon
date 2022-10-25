@@ -1,5 +1,6 @@
-# Assignment-1# 
-# Title
+# Horiseon
+
+# refractoring a website 
 
 I have been asked to refactor the code for a functional website, the website needed a title. I have chosen to name it after the company logo 'Horiseon'.
 
