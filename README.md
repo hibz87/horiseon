@@ -11,7 +11,9 @@ I have been asked to refactor the code for a functional website, the website nee
 
 I have learned about the section tag, the importance of catering to all kinds of people to enable accessibility to websites and I have learned to track changes as I had to track back a lot if I wrote any part of the code wrong.
 
- 
+![](Screenshot%202022%201.png)
+ ![](Screenshot%202022%202.png)
+![](Screenshot%202022%203.png)
 
 # Contact
 
