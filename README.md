@@ -15,6 +15,8 @@ I have learned about the section tag, the importance of catering to all kinds of
  ![](Screenshot%202022%202.png)
 ![](Screenshot%202022%203.png)
 
+link to deployed website:
+
 # Contact
 
 If you have any questions, please contact me at: 
