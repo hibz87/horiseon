@@ -22,6 +22,6 @@ https://hibz87.github.io/horiseon/
 
 If you have any questions, please contact me at: 
  
-  Github Profile: hibz87  
+  email: .......
 
   
